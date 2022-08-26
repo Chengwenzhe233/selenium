@@ -1,0 +1,4 @@
+INFO	2021-12-31 16:17:30,461	[webpage.py:34]	打开网页：https://www.baidu.com/
+INFO	2021-12-31 16:17:31,049	[webpage.py:66]	输入文本：selenium
+INFO	2021-12-31 16:17:32,088	[webpage.py:72]	点击元素('id', 'su')
+INFO	2021-12-31 16:17:33,028	[test_search.py:21]	<re.Match object; span=(1134, 1142), match='selenium'>
